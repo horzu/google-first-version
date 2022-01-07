@@ -1,0 +1,61 @@
+#logo{
+    display: block;
+    margin: 0 auto;
+}
+
+.searchdiv{
+    background-color: #EEEEEE;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.searchdiv input{
+    width: 309px;
+}
+
+#extras{
+    display: flex;
+    justify-content:space-between;
+    width: 90%;
+    margin: 0 auto;
+    border-top: 2px solid white;
+}
+
+#specials{
+    width: 37%;
+    background-color: #7EE5DA;
+    display: inline;
+    text-align: center;
+    padding-top: 10px;
+    border-right: 2px solid white;
+}
+
+#help{
+    background-color: #70CCC2;
+    display: inline;
+    width: 20%;
+    text-align: center;
+    font-size: 13px;
+    padding-top: 5px;
+    border-right: 2px solid white;
+}
+
+#get{
+    background-color: #62B3AA;
+    display: inline;
+    width: 45%;
+    text-align: center;
+    font-size: 13px;    
+}
+
+footer{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 1rem;
+}
